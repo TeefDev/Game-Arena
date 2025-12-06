@@ -1,4 +1,4 @@
-##🎮 Games Arena — Experimental Gaming Experience Website
+## 🎮 Games Arena — Experimental Gaming Experience Website
 
 Games Arena is a concept website built as an experimental project to showcase modern front-end design skills, UI styling, animation effects, and creative visual identity.
 This is not a real commercial website — it is a skill-testing, learning-focused, portfolio-ready project created to demonstrate how a gaming landing page can look and feel when crafted with high attention to detail.
@@ -7,7 +7,7 @@ With neon aesthetics, dynamic visuals, and bold atmosphere, Games Arena brings t
 
 ⸻
 
-##⚡ Project Purpose
+## ⚡ Project Purpose
 
 The purpose of this project is simple:
 
@@ -24,7 +24,7 @@ This website is not for production use — it is a learning prototype to strengt
 
 ⸻
 
-##💥 What Makes Games Arena Exciting
+## 💥 What Makes Games Arena Exciting
 
 Games Arena is designed to feel alive — even as a practice project.
  • 🎬 A cinematic hero section
@@ -39,7 +39,7 @@ Every part is made intentionally to reflect your skill, attention to detail, and
 
 ⸻
 
-##🖼️ Project Images 
+## 🖼️ Project Images 
 
 ![game1](images/game1.jpeg)
 ![game2](images/game2.jpeg)
@@ -47,6 +47,6 @@ Every part is made intentionally to reflect your skill, attention to detail, and
 
 ⸻
 
-##👩‍💻 Developer
+## 👩‍💻 Developer
 
 Teef M. Karyry — TeefDev
