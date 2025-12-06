@@ -15,9 +15,9 @@ Although experimental, the project reflects real-world design principles and dem
 
 ## Preview Images
 
-![game1](images/game1.jpeg)
-![game2](images/game2.jpeg)
-![game3](images/game3.jpeg)
+![game1](game1.jpeg)
+![game2](game2.jpeg)
+![game3](game3.jpeg)
 
 
 ## Key Features
