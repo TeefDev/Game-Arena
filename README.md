@@ -21,6 +21,7 @@ Although experimental, the project reflects real-world design principles and dem
 
 
 ## Key Features
+
 ## Cinematic Hero Section
 A bold introductory layout featuring layered visuals, clear text hierarchy, and strong visual impact.
 
