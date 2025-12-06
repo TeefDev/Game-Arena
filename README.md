@@ -45,6 +45,7 @@ The design adapts properly across desktop, tablet, and mobile screens.
 
 
 ## Purpose of the Project
+
 The primary objective of Games Arena is to serve as a practice environment to:
  • Strengthen UI/UX fundamentals
  • Explore creative layout structures
@@ -56,6 +57,7 @@ This website is intentionally experimental and not intended as a full gaming pla
 Its purpose is to demonstrate capability, creativity, and front-end development potential.
 
 ## Tech Stack
+
  • HTML5
  • CSS3
  • Bootstrap 5.3
